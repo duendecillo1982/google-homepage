@@ -1,0 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    padding-top: 400px;
+}
+
+.search {
+    display: block;
+    margin: auto;
+    width: 200px;
+    margin-top: 30px;
+}
